@@ -1,4 +1,4 @@
-# HomeStays
+# HomeRent
 
 ## Overview
 
@@ -9,7 +9,7 @@ This project is a full-stack web application developed using MERN stack (MongoDB
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Vipu97/HomeStays.git
+   git clone https://github.com/indris03/Home_rent_app.git
 
    ```
 
